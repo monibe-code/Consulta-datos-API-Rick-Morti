@@ -1,7 +1,5 @@
 # 🧪 Tarea 9 DWES - Consumo de API Rick & Morty
 
-![Rick and Morty Banner](https://help.rickandmortyapi.com/hc/article_attachments/360050805172/Rick_and_Morty_Banner.png)
-
 ## 📝 Descripción
 Este proyecto forma parte de la **Tarea 9 de Desarrollo de Entorno Servidor (DWES)**. Consiste en una aplicación web que consume el servicio REST oficial de **Rick & Morty** para mostrar de forma dinámica los personajes de la serie.
 
