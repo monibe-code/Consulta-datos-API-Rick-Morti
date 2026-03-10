@@ -1,0 +1,19 @@
+# Extensiones de archivos temporales de editores
+.DS_Store
+Thumbs.db
+
+# Carpeta de documentación generada (phpDocumentor)
+# No se sube porque se genera a partir del código
+/doc/
+
+# Archivos de configuración de IDEs (VSCode, NetBeans, PHPStorm)
+nbproject/
+
+# Archivos de log y temporales de PHP
+*.log
+/vendor/
+
+# Archivos de JMeter
+*.jtl
+*.log
+*.jmx
